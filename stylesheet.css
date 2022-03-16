@@ -43,7 +43,7 @@
     background-position: center;
 }
 
-.top-wrapper h1 {
+.container h1 {
     color: rgb(185, 255, 255);
     font-style: normal;
     font-weight: bold; 
@@ -51,7 +51,7 @@
     margin-bottom: 30px;
 }
 
-.top-wrapper p {
+.container p {
     padding: 10px 90px 0;
     color: white;
     margin-bottom: 3px;
